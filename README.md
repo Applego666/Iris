@@ -1,4 +1,10 @@
-# Instructions: 
+# 
+Appendix:
+if you If you don't want to install any environment or software, I will show the whole process for you in my presentation about how to implement my code.
+Or if you have any problems, you can email me at any time!
+Thank you for your patience！！！
+
+Instructions: 
 1.Create a new folder where you want to download the code.
 2.Right-click the folder and select "Git Bash Here". A command line window will pop up.
 3.In the command line window, type "git init" and press enter. A.git folder appears in the newly created folder.
@@ -16,6 +22,7 @@ Method 2
 3.input ‘pip install jupyter>auto download relative libaries.
 4.finally will dispaly successfully
 5. input jupyter notebook open the website
-Appendix:
-if you If you don't want to install any environment or software, I will show the whole process for you in my presentation about how to implement my code.
-Thank you
+
+
+
+
