@@ -11,7 +11,8 @@ Instructions:
 4.In the command line window, type git clone [URL], press Enter, and wait for the download to complete. (Paste the URl directly. Right-click and select "Paste".)
 5.done
 
-Envionment installation
+# Envionment installation
+
 Method 1（Recommand）
 1. install Anaconda 
 3. open Anacoda and installs Jupyter Notebook
