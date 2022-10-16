@@ -14,6 +14,8 @@ Method 2
 1.Press and hold the [win] + [R] key on the keyboard to open the [Run] program.
 2.Enter cmd in the "Run" box and click the "OK" button to open the command prompt window;
 3.input ‘pip install jupyter>auto download relative libaries.
+4.finally will dispaly successfully
+5. input jupyter notebook open the website
 Appendix:
 if you If you don't want to install any environment or software, I will show the whole process for you in my presentation about how to implement my code.
 Thank you
