@@ -1,4 +1,4 @@
-# if you click the , it displays unable to render code.block, please reload the page. Thank you!!!
+# If you click the Iris datasets- Decision Tree.ipynb, it displays unable to render code.block, please reload the page. Thank you!!!
 Appendix:
 if you If you don't want to install any environment or software, I will show the whole process for you in my presentation about how to implement my code.
 Or if you have any problems, you can email me at any time!
