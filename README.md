@@ -19,9 +19,10 @@ Anaconda is an open source distribution of Python. There are many existing Pytho
 Method 2
 1.Press and hold the [win] + [R] key on the keyboard to open the [Run] program.
 2.Enter cmd in the "Run" box and click the "OK" button to open the command prompt window;
-3.input ‘pip install jupyter>auto download relative libaries.
+3.input ‘pip install jupyter'>auto download relative libaries.
 4.finally will dispaly successfully
-5. input jupyter notebook open the website
+5.install sklearn. input 'pip install sklearn' in cmd 
+6. input jupyter notebook open the website
 
 
 
